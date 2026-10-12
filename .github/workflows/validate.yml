@@ -1,0 +1,28 @@
+name: Validate feed
+on:
+  push:
+  pull_request:
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: events.json passes the app's rules
+        run: python3 validate.py events.json
+      - name: Validator self-test
+        run: python3 -m unittest test_validate -v
+      - name: Signed page manifest is consistent (if present)
+        run: |
+          if [ -f app/manifest.json ]; then python3 - <<'PY'
+          import hashlib, json
+          m = json.load(open('app/manifest.json'))
+          page = open('app/' + m['file'], 'rb').read()
+          assert hashlib.sha256(page).hexdigest() == m['sha256'], 'sha256 mismatch'
+          assert len(page) == m['bytes'], 'size mismatch'
+          assert ('EK_WEB_BUILD=%d;' % m['webBuild']).encode() in page, 'build number mismatch'
+          print('manifest ok, build', m['webBuild'])
+          PY
+          fi

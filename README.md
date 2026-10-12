@@ -8,7 +8,7 @@ Public, data-only feed for the Ed's Kitchen Suite app (iPhone, iPad, Mac). No se
 - `app/` holds the signed web-page update (`manifest.json` + `index.html`) written by
   `scripts/publish_ota.py` in the app repo. The app verifies an Ed25519 signature before using it.
 - `AGENT.md` is the playbook for the scheduled events agent.
-- `validate.py` checks `events.json` the same way the app does. Run it before every push.
+- `validate.py` checks `events.json` the same way the app does; GitHub Actions runs it (and `test_validate.py`) on every push. Run it before every push.
 
 ## events.json format
 
