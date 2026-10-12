@@ -5,6 +5,12 @@ Goal: keep `events.json` current for Ed's Kitchen (small-batch macadamia nut but
 ## Each run
 1. Read `events.json` from github.com/edbarros/eds-kitchen-events (main).
 2. Research the DFW area (about 90 miles of Ovilla; flag anything over 75 miles as "worth the trip only if great"): holiday/craft/farmers markets, vendor calls, festivals, fall/winter 2026-27. Use the organizers' own pages for dates, fees, application links and the cottage-food rule. Search for new events AND changes to existing ones (dates, fees, deadline, closed/open status).
+   Minimum effort every run (a quiet run is only valid if you did all of this):
+   - Re-fetch the `ap` (apply/info) page of every event in `events.json` whose `st` is `open` or `check`, or whose deadline is within the next 45 days, and compare dates, fee, deadline and open/closed status.
+   - Run at least 5 different web searches (for example: DFW holiday market vendor application, Ellis/Johnson/Tarrant/Dallas County craft fair vendor call, Christmas market Texas cottage food vendors, farmers market winter vendor spots, church or school holiday bazaar vendor registration). Prefer organizers' own pages over aggregators.
+   - If a page fails to load, try the next source; never treat a failed fetch as "no change".
+   - End every run with a one-line tally in your session notes: pages re-checked, searches run, pages that failed, events changed, events added.
+   - If more than a third of the fetches failed, email kitchen@edersonbarros.com "Events agent: research was thin" with that tally so Ed knows the sweep was incomplete. Do not email on a clean sweep with no changes.
 3. Update only what you can support from a source. Never invent fees, crowd sizes or dates. Use `st: "check"` and say what is unconfirmed in `nt`. Do not remove events; mark them `st: "closed"`. Keep ids stable. Dates are `MM-DD`, `ap` must be an https link.
 4. Score every new or changed event 0-100 and store it in `rk` (higher = better):
    - Cottage food allowed (`ck: "yes"`) is required for a good event. `no` or unknown caps the score at 40.
