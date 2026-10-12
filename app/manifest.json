@@ -1,0 +1,9 @@
+{
+ "version": "2.3.0.web12",
+ "webBuild": 12,
+ "minApi": 1,
+ "file": "index.html",
+ "sig": "RVm4+6VZt/3jDRGdzPMxStNuYi49wHI7BP6aBt1TzCGeUBohVnY9J/YfzCnYgq88XLpEcYiHLEM9CQ/z45iqBw==",
+ "sha256": "a1ed89c41d39fc2eac117415fb3b9527f9aaa0b9e7cfd2a37d1e8d23d9efdab9",
+ "bytes": 551211
+}
