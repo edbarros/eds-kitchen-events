@@ -1,0 +1,79 @@
+{
+ "updated": "2026-10-15T20:44:36Z",
+ "currentPrice": 0.97,
+ "best": {
+  "rank": 1,
+  "seller": "Costco (warehouse; costco.com delivery fee unknown)",
+  "pack": "Ball Half Pint Jars with Lids, 12 Count",
+  "jars": 12,
+  "deliveredTotal": 9.73,
+  "deliveredPerJar": 0.811,
+  "url": "https://app.warehouserunner.com/costco/421140-ball-half-pint-jars-with-lids-12-count",
+  "notes": "Price $8.99 is from a Jun 13, 2025 tracker snapshot, not a live page. Warehouse pickup, no delivery to 75154 confirmed; online delivery fee unknown."
+ },
+ "options": [
+  {
+   "rank": 1,
+   "seller": "Costco (warehouse; costco.com delivery fee unknown)",
+   "pack": "Ball Half Pint Jars with Lids, 12 Count",
+   "jars": 12,
+   "deliveredTotal": 9.73,
+   "deliveredPerJar": 0.811,
+   "shipping": 0,
+   "tax": 0.74,
+   "membership": "Costco membership",
+   "stock": "Out of stock at last tracker snapshot (Jun 2025)",
+   "url": "https://app.warehouserunner.com/costco/421140-ball-half-pint-jars-with-lids-12-count",
+   "verified": false,
+   "notes": "Price $8.99 is from a Jun 13, 2025 tracker snapshot, not a live page. Warehouse pickup, no delivery to 75154 confirmed; online delivery fee unknown."
+  },
+  {
+   "rank": 2,
+   "seller": "H-E-B",
+   "pack": "Ball Regular Mouth 12 pk Half Pint Mason Jars & Lids",
+   "jars": 12,
+   "deliveredTotal": 11.68,
+   "deliveredPerJar": 0.973,
+   "shipping": 0,
+   "tax": 0.89,
+   "membership": "None",
+   "stock": "Unknown",
+   "url": "https://www.heb.com/product-detail/ball-regular-mouth-12-pk-half-pint-mason-jars-lids/30015",
+   "verified": false,
+   "notes": "$10.79 with coupon (else $11.98) per search snippet. Delivery to Ovilla and its fee unknown, so total excludes delivery."
+  },
+  {
+   "rank": 3,
+   "seller": "Walmart",
+   "pack": "Ball Glass Mason Jar w/ Lid & Band, Regular Mouth, 8 oz, 12 Count (3 packs)",
+   "jars": 36,
+   "deliveredTotal": 38.9,
+   "deliveredPerJar": 1.081,
+   "shipping": 0,
+   "tax": 2.96,
+   "membership": "None (free shipping at $35+ assumed)",
+   "stock": "Unknown",
+   "url": "https://www.walmart.com/ip/Ball-Glass-Mason-Jar-w-Lid-Band-Regular-Mouth-8-Ounces-12-Count/14234954",
+   "verified": false,
+   "notes": "$11.98 per 12-pack from snippet only; page could not be fetched. Another listing showed $26.12 (marketplace)."
+  },
+  {
+   "rank": 4,
+   "seller": "Amazon",
+   "pack": "Ball 8 oz Regular Mouth Mason Jars, 12 pack (3 packs)",
+   "jars": 36,
+   "deliveredTotal": 38.94,
+   "deliveredPerJar": 1.082,
+   "shipping": 0,
+   "tax": 2.97,
+   "membership": "Prime, or $35+ for free shipping",
+   "stock": "Unknown",
+   "url": "https://slickdeals.net/f/19376580-12-pack-ball-8-ounce-regular-mouth-mason-jars-half-pint-w-lids-bands-11-99-free-shipping-w-prime-or-on-35",
+   "verified": false,
+   "notes": "$11.99 per pack as of Mar 2026 deal post. Linked to the deal post, not the Amazon page."
+  }
+ ],
+ "recommendation": "No option could be confirmed below the current $0.97 per jar; live retailer pages were unreachable this run, so every price is unverified. Costco's 12-pack (last seen $8.99, about $0.81 per jar with tax) is the only lead worth checking, but it was out of stock and is warehouse-only. Keep buying at Walmart unless Costco stock and price are confirmed.",
+ "savingsPer100Jars": 15.9,
+ "previousBestPerJar": 0
+}
