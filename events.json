@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "updated": "2026-10-12T13:00:41Z",
+ "updated": "2026-10-23T00:08:18Z",
  "events": [
   {
    "id": "mansfield-fcm",
@@ -321,7 +321,7 @@
    "dn": "No deadline posted. Call before Oct 24",
    "ap": "https://www.cedarhillchamber.org/farmers-market-vendors",
    "ct": "admin@cedarhillchamber.org, (972) 291-7817",
-   "nt": "This is the last market of 2026 (the Oct 11 date is cancelled for Country Day). Cottage goods are explicitly permitted. Return the 2026 vendor packet to the Chamber.",
+   "nt": "This is the last market of 2026 (the Oct 11 date is cancelled for Country Day). Cottage goods are explicitly permitted. Return the 2026 vendor packet to the Chamber. Re-checked Oct 23: Oct 24 still listed as final 2026 date.",
    "x": "Setup 7:30-8:50am, vehicles out by 8:35am, down by 2pm. Bring tables, canopy, chairs and weights. Season pass is $180, not worth it with one date left."
   },
   {
@@ -383,15 +383,15 @@
    "d": [
     "10-17"
    ],
-   "tm": "Sat 2:30-6pm",
-   "st": "check",
+   "tm": "Sat 3-6pm",
+   "st": "closed",
    "ck": "ask",
    "mi": 6,
    "fee": "Not found",
-   "dn": "Unknown",
+   "dn": "Vendor applications closed",
    "ap": "https://www.redoaktx.org/379/Red-Oak-Fall-Festival",
    "ct": "Red Oak Area Chamber, (972) 617-0906, office@redoakareachamber.org",
-   "nt": "Your own zip code. Call this week.",
+   "nt": "City page (Oct 23 2026): Oct 17, 3-6pm, vendor applications have closed. Free attendance.",
    "x": "The city page has no vendor details."
   },
   {
@@ -650,16 +650,16 @@
     "11-14"
    ],
    "tm": "Sat 9am-3pm",
-   "st": "check",
+   "st": "closed",
    "ck": "ask",
    "mi": 25,
-   "fee": "6-ft table $50; 8-ft table $60 (listed sold out)",
+   "fee": "6-ft table $50; 8-ft table $60 (sold out; waitlist only)",
    "fn": 50,
    "dl": "10-23",
    "dn": "Oct 23",
    "ap": "https://emmanuelpc.org/emmanuel-craft-fair/",
    "ct": "CraftFair@emmanuelpc.org, 817-545-0251",
-   "nt": "Also about 35 miles of driving. Same day as Hurst.",
+   "nt": "Organizer page (Oct 23 2026): both table sizes sold out, new applicants go on a waitlist. Nov 14, 9am-3pm.",
    "x": "Handmade items only. Table, chairs and electricity included. A bake sale and food truck are on site."
   },
   {
@@ -947,7 +947,7 @@
    "dn": "Oct 31",
    "ap": "https://www.eventeny.com/events/vendor/?id=52015",
    "ct": "Eventeny 'Contact Organizer'. Food-permit questions: marisa.loera@mansfieldtexas.gov",
-   "nt": "About 13,000 expected. 'Artisan-made culinary goods' is an accepted category, which is the closest fit for jarred nut butter. A second listing shows Nov 20 as the deadline; the Eventeny page says Oct 31.",
+   "nt": "About 13,000 expected. 'Artisan-made culinary goods' is an accepted category, which is the closest fit for jarred nut butter. A second listing shows Nov 20 as the deadline; the Eventeny page says Oct 31. Eventeny page re-checked Oct 23: deadline Oct 31, notification by Nov 6.",
    "x": "Bring a weighted tent (no stakes), tables and a payment device. No space heaters or coolers. Notification by Nov 6."
   },
   {
@@ -962,7 +962,7 @@
     "12-05"
    ],
    "tm": "Hours not found",
-   "st": "check",
+   "st": "closed",
    "ck": "ask",
    "mi": 11,
    "fee": "Not found",
@@ -970,10 +970,10 @@
    "attn": "Not published",
    "vend": "Unknown",
    "comp": "Unknown",
-   "dn": "2025's deadline was April 4",
+   "dn": "Vendor applications closed (organizer page, Oct 23 2026)",
    "ap": "https://www.waxahachiejsl.org/vendors",
    "ct": "christmasmarket@waxahachiejsl.org",
-   "nt": "Slots are probably gone. Ask for the waitlist and for the 2027 application date.",
+   "nt": "Organizer page says vendor applications are now closed. Email for the waitlist and the 2027 application date.",
    "x": "Probably the Waxahachie Junior Service League market. That link is an inference."
   },
   {
@@ -1304,12 +1304,12 @@
    "n": "Christmas in Cleburne Market Expo",
    "s": "Cleburne Market Expo",
    "city": "Cleburne",
-   "v": "Cleburne, TX (main room and small ballroom, per listing)",
+   "v": "Cleburne Conference Center, 1501 W Henderson St",
    "t": "holiday",
    "d": [
     "11-14"
    ],
-   "tm": "Sat, hours not found",
+   "tm": "Sat 9am-4pm",
    "st": "open",
    "ck": "ask",
    "mi": 32,
@@ -1326,7 +1326,7 @@
    "dn": "Applications due Nov 1",
    "ap": "https://dfwcrafts.com/event/christmas-in-cleburne-market-expo/",
    "ct": "Christine, icevents.info@gmail.com, 817-770-6971",
-   "nt": "One directory listing, so confirm the fee and ask whether jarred nut butter is allowed ('holiday treats' are mentioned). Different from the Dec 5 Save Old Cleburne market. Cheapest paid-entry test on this list.",
+   "nt": "Organizer listing (Oct 23 2026) confirms Nov 14, $150 main room / $125 small ballroom, applications due Nov 1. Directory listing only: ask whether jarred nut butter is allowed (it mentions holiday treats). Different from the Dec 5 Save Old Cleburne market.",
    "x": "Electricity $25, table $10. Indoor."
   },
   {
