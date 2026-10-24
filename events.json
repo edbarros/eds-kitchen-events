@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "updated": "2026-10-23T00:09:47Z",
+ "updated": "2026-10-24T11:09:46Z",
  "events": [
   {
    "id": "mansfield-fcm",
@@ -1789,6 +1789,51 @@
    "nt": "New. City page says applications are reviewed in order received since Sept 1 and close Nov 1, 5pm. Gift market with artisans and gourmet foods, tree lighting; vendors must show proof of qualifying for cottage law. Mileage is an estimate. Fee, crowd size and competition not confirmed.",
    "x": "Certificate of insurance due Nov 21. Mandatory vendor meeting date TBA. Bring weighted tent. Over 45 miles, so only worth it if the fee is modest.",
    "rk": 58
+  },
+  {
+   "id": "weatherford-cots",
+   "n": "Christmas on the Square (Weatherford)",
+   "s": "Weatherford Xmas Square",
+   "city": "Weatherford",
+   "v": "Downtown square",
+   "t": "holiday",
+   "d": [
+    "12-05"
+   ],
+   "tm": "10am-4pm",
+   "st": "check",
+   "ck": "yes",
+   "mi": 62,
+   "fee": "Not found",
+   "dl": "11-08",
+   "dn": "Form says Friday Nov 8 with $50 late fee (Nov 8, 2026 is a Sunday, so the date may be left over from a prior year)",
+   "ap": "https://form.jotform.com/262073843707157",
+   "ct": "Weatherford Chamber, Gloria Martinez 817-596-3801",
+   "nt": "New. Form lists Dec 5, 2026 and says cottage food vendors follow the Texas cottage food law. First come, first served. Fee, crowd and competition not confirmed; mileage is an estimate. Confirm the deadline with the Chamber.",
+   "x": "Bring your own tent with 30 lb weights, tables and chairs. Texas sales tax ID and booth/product photos required. Theme: Gingerbread Christmas.",
+   "rk": 38
+  },
+  {
+   "id": "allen-cottonwood",
+   "n": "Cottonwood Creek Church Christmas Market (Allen)",
+   "s": "Cottonwood Creek Xmas",
+   "city": "Allen",
+   "v": "Cottonwood Creek Church, 1015 Sam Rayburn Tollway",
+   "t": "holiday",
+   "d": [
+    "12-05"
+   ],
+   "tm": "9am-3pm",
+   "st": "check",
+   "ck": "unknown",
+   "mi": 48,
+   "fee": "Not listed (payment link sent after approval)",
+   "dn": "No deadline posted; applications open now",
+   "ap": "https://cottonwoodcreek.org/christmas-market/",
+   "ct": "christmasmarket@cottonwoodcreek.org, 972-359-7777",
+   "nt": "New. Church page says 50+ vendors, selection committee, applications being accepted. Cottage food rules, fee and crowd not stated; mileage is an estimate.",
+   "x": "Ask whether food jars are allowed and how many food vendors are accepted.",
+   "rk": 30
   }
  ]
 }
