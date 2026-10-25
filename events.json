@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "updated": "2026-10-24T11:09:46Z",
+ "updated": "2026-10-25T11:09:13Z",
  "events": [
   {
    "id": "mansfield-fcm",
@@ -316,7 +316,7 @@
     "10-24"
    ],
    "tm": "Sat 9am-1pm",
-   "st": "open",
+   "st": "closed",
    "ck": "yes",
    "mi": 5,
    "fee": "$45 weekly pass ($30 for Chamber members), electricity $10",
@@ -324,7 +324,7 @@
    "dn": "No deadline posted. Call before Oct 24",
    "ap": "https://www.cedarhillchamber.org/farmers-market-vendors",
    "ct": "admin@cedarhillchamber.org, (972) 291-7817",
-   "nt": "This is the last market of 2026 (the Oct 11 date is cancelled for Country Day). Cottage goods are explicitly permitted. Return the 2026 vendor packet to the Chamber. Re-checked Oct 23: Oct 24 still listed as final 2026 date.",
+   "nt": "Season over: Oct 24 was the final 2026 market (re-checked Oct 25; schedule runs May-Oct only). Cottage goods are permitted; watch for the 2027 vendor packet.",
    "x": "Setup 7:30-8:50am, vehicles out by 8:35am, down by 2pm. Bring tables, canopy, chairs and weights. Season pass is $180, not worth it with one date left."
   },
   {
