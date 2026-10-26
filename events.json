@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "updated": "2026-10-25T11:09:13Z",
+ "updated": "2026-10-26T11:09:23Z",
  "events": [
   {
    "id": "mansfield-fcm",
@@ -24,10 +24,10 @@
    "mi": 14,
    "fee": "$35 per Saturday (10x10) plus $20 one-time onboarding",
    "fn": 35,
-   "dn": "Applications are taken January through October, so apply this month",
+   "dn": "Applications taken through October; the season ends Nov 21",
    "ap": "https://vendors-mtxfcm.com/",
    "ct": "TheMarket@MTxFCM.com (put your business name in the subject)",
-   "nt": "Cottage food is the point of this market and the page lists nuts as an example. Oct 31 is their Fall Harvest Festival with extra vendors and traffic. A December Christmas Market is on their site with no date yet.",
+   "nt": "Cottage food is the point of this market and the page lists nuts as an example. Oct 31 is their Fall Harvest Festival with extra vendors and traffic. A December Christmas Market is on their site with no date yet. Oct 26 recheck: season runs through the third Saturday of November (Nov 21); applications still open with no deadline, a waitlist may form for full categories. The December event is the city's Home for the Holidays; see mtxfcm.com/calendar.",
    "x": "10x20 is $45, 10x30 is $55. Attend weekly, every other week, monthly or special events only. Insurance not stated."
   },
   {
@@ -491,20 +491,20 @@
    "n": "Glenn Heights Fall Fest",
    "s": "Glenn Heights Fall Fest",
    "city": "Glenn Heights",
-   "v": "Heritage Park (2025 location)",
+   "v": "Heritage Park",
    "t": "fest",
    "d": [
     "10-30"
    ],
-   "tm": "2025 was 6-9pm",
+   "tm": "Fri 6-9pm",
    "st": "check",
    "ck": "ask",
    "mi": 2,
    "fee": "Not posted",
-   "dn": "Unknown",
+   "dn": "No deadline posted; limited booths, approval email only",
    "ap": "https://glennheightstx.gov/507/Fall-Festival",
    "ct": "972-223-1690 ext. 334 (2025 contact)",
-   "nt": "Date comes from the Red Oak Area Chamber calendar; 2026 details aren't posted yet.",
+   "nt": "City page (re-checked Oct 26): Fri Oct 30, 2026, 6-9pm at Heritage Park, marked as a new date. Vendors apply by online form; booths limited and must fit the fall theme; no approval email means not approved. Fee and deadline not posted. Only 4 days out, so call 972-223-1690 ext. 334 before bothering.",
    "x": "The 2025 edition limited vendors to the Fall Fest theme and sent approval emails."
   },
   {
@@ -540,7 +540,7 @@
    "d": [
     "10-31"
    ],
-   "tm": "Hours not found",
+   "tm": "Sat 8am-1pm (doors 7am)",
    "st": "check",
    "ck": "ask",
    "mi": 14,
@@ -548,7 +548,7 @@
    "dn": "Unknown",
    "ap": "https://www.eventbrite.com/e/5k-and-vendor-fair-tickets-1998517270956",
    "ct": "Eventbrite page",
-   "nt": "Low information. Only worth a message if you want a Halloween-day option in Mansfield.",
+   "nt": "Eventbrite page (re-checked Oct 26): Sat Oct 31, 8am-1pm after the 5K, a vendor fair with local sellers. No vendor application or fee is posted. Only worth a message if you want a Halloween-day option in Mansfield.",
    "x": "Only an Eventbrite attendee page was found."
   },
   {
@@ -1485,14 +1485,14 @@
    "n": "Vintage Market Days: Dallas-McKinney (Nov)",
    "s": "Vintage Market Days McKinney",
    "city": "McKinney",
-   "v": "McKinney, TX",
+   "v": "Myers Park & Event Center, 7117 Co Rd 166",
    "t": "holiday",
    "d": [
     "11-20",
     "11-21",
     "11-22"
    ],
-   "tm": "Fri-Sun",
+   "tm": "Fri 10am-4pm early buy, Sat 10am-4pm, Sun 10am-3pm",
    "st": "check",
    "ck": "yes",
    "mi": 65,
@@ -1506,7 +1506,7 @@
    "dn": "Unknown",
    "ap": "https://vintagemarketdays.com/market/dallas-mckinney",
    "ct": "Via the show page",
-   "nt": "Consumable vendors are invited and only 3 food booths are listed, so competition looks light. Ask the owner for current availability and price.",
+   "nt": "Consumable vendors are invited and only 3 food booths are listed, so competition looks light. Ask the owner for current availability and price. Oct 26 recheck: venue Myers Park & Event Center, McKinney, Nov 20-22; vendor details are on the show's /vendor.php page, not the main page.",
    "x": "Franchise show with 'upscale vintage, handmade and consumables'. The East Texas edition is in Tyler Nov 6-8 (about 110 mi)."
   },
   {
@@ -1834,6 +1834,29 @@
    "nt": "New. Church page says 50+ vendors, selection committee, applications being accepted. Cottage food rules, fee and crowd not stated; mileage is an estimate.",
    "x": "Ask whether food jars are allowed and how many food vendors are accepted.",
    "rk": 30
+  },
+  {
+   "id": "dallas-crew-holiday",
+   "n": "Dallas Holiday Market (CREW Dallas, Hall Arts Hotel)",
+   "s": "Dallas Holiday Market",
+   "city": "Dallas",
+   "v": "Hall Arts Hotel, 1717 Leonard St",
+   "t": "holiday",
+   "d": [
+    "11-19"
+   ],
+   "tm": "Thu 5-7pm",
+   "st": "check",
+   "ck": "unknown",
+   "mi": 25,
+   "fee": "$100 vendor registration (vendors keep 100% of sales)",
+   "fn": 100,
+   "dn": "No deadline posted; space limited",
+   "ap": "https://dallas.crewnetwork.org/events/holiday-market",
+   "ct": "Via the CREW Dallas event page",
+   "nt": "New (Oct 26). CREW Dallas page lists a 3rd annual holiday market with artisans, specialty vendors and food merchants. Only a 2-hour evening event. Cottage food rules, crowd size and competition not stated; mileage is an estimate.",
+   "x": "Ask whether packaged cottage food is allowed and how many food vendors are booked.",
+   "rk": 35
   }
  ]
 }
