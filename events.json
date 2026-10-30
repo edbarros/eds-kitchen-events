@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "updated": "2026-10-29T11:11:29Z",
+ "updated": "2026-10-30T11:09:23Z",
  "events": [
   {
    "id": "mansfield-fcm",
@@ -274,15 +274,16 @@
     "12-11"
    ],
    "tm": "M.A.D.E. Dallas is the 2nd Friday, 6-9pm",
-   "st": "closed",
+   "st": "open",
    "ck": "ask",
    "mi": 17,
    "fee": "$45 non-refundable application (covers The Shed, Wholesale Night and M.A.D.E.)",
-   "dn": "2026 closed. New-vendor applications for 2027 open in early November",
+   "dn": "2027 applications open now (year-round, reviewed weekly, decision in about 2 weeks)",
    "ap": "https://dallasfarmersmarket.org/join-the-market/",
    "ct": "info@dallasfarmersmarket.org, (214) 664-9110",
-   "nt": "Worth applying in November for 2027. The Shed lists baked goods as full; nut butter would be a different category, so ask.",
-   "x": "Food handler card and general liability insurance are required after approval. Booth fees aren't public."
+   "nt": "Oct 30 recheck: organizer page says 2027 applications are open now; $45 nonrefundable fee due before review. Ask whether nut butter fits an open category (baked goods listed as full). Cottage food unconfirmed, so score is capped.",
+   "x": "Food handler card and general liability insurance are required after approval. Booth fees aren't public.",
+   "rk": 38
   },
   {
    "id": "waxa-fm",
