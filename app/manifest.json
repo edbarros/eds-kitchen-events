@@ -1,9 +1,9 @@
 {
- "version": "2.15.0.web77",
- "webBuild": 77,
+ "version": "2.15.1.web79",
+ "webBuild": 79,
  "minApi": 6,
  "file": "index.html",
- "sig": "raPc1/9pxNCI1XBI/qFaxT4Lt8+aiCn1I5H65Cok/pWYChokNXoZsO3qW+5Z/rW7/P1X9gw18sWvNnkpxmVRBQ==",
- "sha256": "dee01e832dad663e91c97217c594f826dc0c1941df8d598407decda758f9b75d",
- "bytes": 618255
+ "sig": "IIPduhoqfP+m0U2rDbzhH4KgAiWs76HeiW3dyhi+yqqscJsPvwVd9qRbgT0WWSddrmmggkHZ1oqpgoSKy+BzAQ==",
+ "sha256": "b7c196de5d1a0a6a69b7057d66551b540e13605416459f936930cb579612558b",
+ "bytes": 618554
 }
