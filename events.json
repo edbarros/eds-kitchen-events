@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "updated": "2026-10-30T11:09:23Z",
+ "updated": "2026-10-31T11:09:38Z",
  "events": [
   {
    "id": "mansfield-fcm",
@@ -185,14 +185,14 @@
     "12-20"
    ],
    "tm": "Sun 9am-1pm",
-   "st": "check",
+   "st": "closed",
    "ck": "yes",
    "mi": 18,
    "fee": "$35 application; stall fees are in a handbook that isn't public",
-   "dn": "2026 application listed as open",
+   "dn": "Fair Park market ended Sep 20 for 2026 per organizer; use Tietze or White Rock",
    "ap": "https://www.goodlocalmarkets.org/application",
    "ct": "info@goodlocalmarkets.org",
-   "nt": "One $35 application covers all three Good Local Markets. Oct 23 recheck: the page accepts cottage food applicants (food handler certificate, compliant label, ingredient list). Categories at capacity include bread, sweet bakes, honey, jelly, pickles; nut butter not listed either way. Rolling review, no guarantee.",
+   "nt": "One $35 application covers all three Good Local Markets. Oct 23 recheck: the page accepts cottage food applicants (food handler certificate, compliant label, ingredient list). Categories at capacity include bread, sweet bakes, honey, jelly, pickles; nut butter not listed either way. Rolling review, no guarantee. Oct 31 recheck: organizer page lists Fair Park Sundays Mar 1-Sep 20 only.",
    "x": "Closed during the State Fair (through Oct 18) and Thanksgiving weekend. Products must be locally sourced and completely handcrafted.",
    "rk": 57
   },
@@ -211,7 +211,6 @@
     "11-08",
     "11-22",
     "12-06",
-    "12-13",
     "12-20"
    ],
    "tm": "Sun 9am-1pm",
@@ -222,7 +221,7 @@
    "dn": "2026 application listed as open",
    "ap": "https://www.goodlocalmarkets.org/application",
    "ct": "info@goodlocalmarkets.org",
-   "nt": "One $35 application covers all three Good Local Markets. Oct 23 recheck: the page accepts cottage food applicants (food handler certificate, compliant label, ingredient list). Categories at capacity include bread, sweet bakes, honey, jelly, pickles; nut butter not listed either way. Rolling review, no guarantee.",
+   "nt": "One $35 application covers all three Good Local Markets. Oct 23 recheck: the page accepts cottage food applicants (food handler certificate, compliant label, ingredient list). Categories at capacity include bread, sweet bakes, honey, jelly, pickles; nut butter not listed either way. Rolling review, no guarantee. Oct 31 recheck: closed 11/29 and 12/13 per organizer; ends Dec 20.",
    "x": "Closed Nov 15 and Nov 29.",
    "rk": 57
   },
@@ -255,7 +254,7 @@
    "dn": "2026 application listed as open",
    "ap": "https://www.goodlocalmarkets.org/application",
    "ct": "info@goodlocalmarkets.org",
-   "nt": "One $35 application covers all three Good Local Markets. Oct 23 recheck: the page accepts cottage food applicants (food handler certificate, compliant label, ingredient list). Categories at capacity include bread, sweet bakes, honey, jelly, pickles; nut butter not listed either way. Rolling review, no guarantee.",
+   "nt": "One $35 application covers all three Good Local Markets. Oct 23 recheck: the page accepts cottage food applicants (food handler certificate, compliant label, ingredient list). Categories at capacity include bread, sweet bakes, honey, jelly, pickles; nut butter not listed either way. Rolling review, no guarantee. Oct 31 recheck: closed 11/28; several categories at capacity (bread, sweet bakes, honey, jelly, etc.); no deadline.",
    "x": "Season is listed through Dec 20, which is a Sunday, so the last Saturday is unconfirmed.",
    "rk": 57
   },
@@ -943,13 +942,13 @@
     "12-04"
    ],
    "tm": "Fri 5-9pm",
-   "st": "open",
+   "st": "closed",
    "ck": "ask",
    "mi": 14,
    "fee": "$150 for a 10x10, non-refundable; electricity extra",
    "fn": 150,
    "dl": "10-31",
-   "dn": "Oct 31",
+   "dn": "Application deadline passed Oct 31 (Eventeny page says closed); applicants notified by Nov 6",
    "ap": "https://www.eventeny.com/events/vendor/?id=52015",
    "ct": "Eventeny 'Contact Organizer'. Food-permit questions: marisa.loera@mansfieldtexas.gov",
    "nt": "About 13,000 expected. 'Artisan-made culinary goods' is an accepted category, which is the closest fit for jarred nut butter. A second listing shows Nov 20 as the deadline; the Eventeny page says Oct 31. Eventeny page re-checked Oct 23: deadline Oct 31, notification by Nov 6.",
