@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "updated": "2026-10-31T11:09:38Z",
+ "updated": "2026-11-01T11:09:33Z",
  "events": [
   {
    "id": "mansfield-fcm",
@@ -883,7 +883,7 @@
    "dn": "No deadline. Reservations open Mondays 8:30am by phone",
    "ap": "https://tradersvillage.com/grand-prairie/vendors/",
    "ct": "972-647-2331, dfwinfo@tradersvillage.com",
-   "nt": "The cheapest big-crowd option. Fees are from the standard weekend rate card; the Christmas-specific rate isn't confirmed. Ask whether a nut butter jar needs the food permission permit.",
+   "nt": "The cheapest big-crowd option. Fees are from the standard weekend rate card; the Christmas-specific rate isn't confirmed. Ask whether a nut butter jar needs the food permission permit. Nov 1 recheck: rate card unchanged; reservations by phone only, Mon-Fri 8:30am.",
    "x": "No tables or chairs. Texas sales tax permit required. Food and drink need a Traders Village permission permit. Corner spaces cost more."
   },
   {
@@ -919,15 +919,15 @@
    ],
    "p": [],
    "tm": "Thu 5:30-8:30pm",
-   "st": "open",
+   "st": "closed",
    "ck": "ask",
    "mi": 5,
    "fee": "Not posted",
    "dl": "10-31",
-   "dn": "Oct 31 (per the city page)",
+   "dn": "Closed Oct 31 (city page: applications Oct 1-31)",
    "ap": "https://cedarhilltx.com/1966",
    "ct": "Special Events Coordinator via the city, (972) 291-5100",
-   "nt": "City page (re-checked Oct 23) confirms Thu Dec 3, 2026, 5:30-8:30pm, free admission; vendor applications accepted Oct 1-31. Fee not posted. Probably the best holiday fit near home; call the Special Events Coordinator this week and ask about cottage food.",
+   "nt": "City page (re-checked Oct 23) confirms Thu Dec 3, 2026, 5:30-8:30pm, free admission; vendor applications accepted Oct 1-31. Fee not posted. Probably the best holiday fit near home; call the Special Events Coordinator this week and ask about cottage food. Nov 1 recheck: window ended Oct 31; marked closed. Ask the coordinator about a late spot or 2027.",
    "x": "The city page says vendor applications are accepted every year from Oct 1 to Oct 31.",
    "rk": 40
   },
@@ -1330,7 +1330,7 @@
    "dn": "Applications due Nov 1",
    "ap": "https://dfwcrafts.com/event/christmas-in-cleburne-market-expo/",
    "ct": "Christine, icevents.info@gmail.com, 817-770-6971",
-   "nt": "Organizer listing (Oct 23 2026) confirms Nov 14, $150 main room / $125 small ballroom, applications due Nov 1. Directory listing only: ask whether jarred nut butter is allowed (it mentions holiday treats). Different from the Dec 5 Save Old Cleburne market.",
+   "nt": "Organizer listing (Oct 23 2026) confirms Nov 14, $150 main room / $125 small ballroom, applications due Nov 1. Directory listing only: ask whether jarred nut butter is allowed (it mentions holiday treats). Different from the Dec 5 Save Old Cleburne market. Nov 1 recheck: listing unchanged; deadline is today, call Christine to confirm booths remain.",
    "x": "Electricity $25, table $10. Indoor."
   },
   {
@@ -1786,7 +1786,7 @@
    "dn": "Nov 1, 5pm CT, or earlier if booths fill",
    "ap": "https://www.friscotexas.gov/1342/Vendors",
    "ct": "City of Frisco, see the Vendors page",
-   "nt": "New. City page says applications are reviewed in order received since Sept 1 and close Nov 1, 5pm. Gift market with artisans and gourmet foods, tree lighting; vendors must show proof of qualifying for cottage law. Mileage is an estimate. Fee, crowd size and competition not confirmed.",
+   "nt": "New. City page says applications are reviewed in order received since Sept 1 and close Nov 1, 5pm. Gift market with artisans and gourmet foods, tree lighting; vendors must show proof of qualifying for cottage law. Mileage is an estimate. Fee, crowd size and competition not confirmed. Nov 1 recheck: page still says open, deadline is today Nov 1 at 5pm CT, no late applications.",
    "x": "Certificate of insurance due Nov 21. Mandatory vendor meeting date TBA. Bring weighted tent. Over 45 miles, so only worth it if the fee is modest.",
    "rk": 58
   },
@@ -1857,6 +1857,30 @@
    "nt": "New (Oct 26). CREW Dallas page lists a 3rd annual holiday market with artisans, specialty vendors and food merchants. Only a 2-hour evening event. Cottage food rules, crowd size and competition not stated; mileage is an estimate.",
    "x": "Ask whether packaged cottage food is allowed and how many food vendors are booked.",
    "rk": 35
+  },
+  {
+   "id": "northwood-sbs",
+   "n": "Northwood Hills Small Business Saturday Market",
+   "s": "Northwood Hills SBS Market",
+   "city": "Dallas",
+   "v": "Spring Valley Crossing, 7879 Spring Valley Rd",
+   "t": "holiday",
+   "d": [
+    "11-28"
+   ],
+   "tm": "Not posted",
+   "st": "check",
+   "ck": "ask",
+   "mi": 38,
+   "fee": "$40 (maker/artisan or prepared food, 10x10)",
+   "fn": 40,
+   "dl": "11-21",
+   "dn": "Nov 21",
+   "ap": "https://forms.cloud.microsoft/r/BPp4prnZYX",
+   "ct": "See application form",
+   "nt": "New. Listing on TheCraftMap (unclaimed, fees read from the organizer application Oct 22) shows Nov 28, 50 vendor spots, $40 maker or prepared food booth, deadline Nov 21. Organizer not named and cottage food rules not stated, so score is capped. Mileage is an estimate. Ask whether jarred nut butter qualifies.",
+   "x": "Boutique $50, food truck $20.",
+   "rk": 33
   }
  ]
 }
