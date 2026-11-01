@@ -1,0 +1,10 @@
+{
+ "appId": "com.edbarros.kitchendesk",
+ "version": "0.1.0.web95",
+ "webBuild": 95,
+ "minApi": 1,
+ "file": "index.html",
+ "sig": "5tzB0sfZsIUiPrMZATpL7S1rIX6imDSjW3ZvKJ/u7nPKzTyOEgc6U7qVraV7cyLDeu5WQxNri6+YEqO8FAdlAA==",
+ "sha256": "edc1c5e342cc5e0143c43bf2bdfea6f439325cb7afbf8c33e2f40a29548e5811",
+ "bytes": 788969
+}
