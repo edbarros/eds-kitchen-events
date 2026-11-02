@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "updated": "2026-11-01T11:09:33Z",
+ "updated": "2026-11-02T11:12:44Z",
  "events": [
   {
    "id": "mansfield-fcm",
@@ -1314,7 +1314,7 @@
     "11-14"
    ],
    "tm": "Sat 9am-4pm",
-   "st": "open",
+   "st": "closed",
    "ck": "ask",
    "mi": 32,
    "fee": "$150 (10x10 main room) or $125 (8x8 small ballroom)",
@@ -1324,13 +1324,13 @@
    "attn": "Not published",
    "vend": "80+ booths",
    "comp": "Unknown. Ask how many food or spread vendors are confirmed.",
-   "acc": "Open until Nov 1",
+   "acc": "Closed",
    "rk": 2,
    "dl": "11-01",
    "dn": "Applications due Nov 1",
    "ap": "https://dfwcrafts.com/event/christmas-in-cleburne-market-expo/",
    "ct": "Christine, icevents.info@gmail.com, 817-770-6971",
-   "nt": "Organizer listing (Oct 23 2026) confirms Nov 14, $150 main room / $125 small ballroom, applications due Nov 1. Directory listing only: ask whether jarred nut butter is allowed (it mentions holiday treats). Different from the Dec 5 Save Old Cleburne market. Nov 1 recheck: listing unchanged; deadline is today, call Christine to confirm booths remain.",
+   "nt": "Organizer listing (Oct 23 2026) confirms Nov 14, $150 main room / $125 small ballroom, applications due Nov 1. Directory listing only: ask whether jarred nut butter is allowed (it mentions holiday treats). Different from the Dec 5 Save Old Cleburne market. Nov 1 recheck: listing unchanged; deadline is today, call Christine to confirm booths remain. Nov 2 recheck: organizer page now says VENDOR APPLICATIONS ARE CLOSED.",
    "x": "Electricity $25, table $10. Indoor."
   },
   {
@@ -1778,7 +1778,7 @@
     "12-06"
    ],
    "tm": "3-7:30pm",
-   "st": "open",
+   "st": "closed",
    "ck": "yes",
    "mi": 50,
    "fee": "Not listed (payment required with application)",
@@ -1786,7 +1786,7 @@
    "dn": "Nov 1, 5pm CT, or earlier if booths fill",
    "ap": "https://www.friscotexas.gov/1342/Vendors",
    "ct": "City of Frisco, see the Vendors page",
-   "nt": "New. City page says applications are reviewed in order received since Sept 1 and close Nov 1, 5pm. Gift market with artisans and gourmet foods, tree lighting; vendors must show proof of qualifying for cottage law. Mileage is an estimate. Fee, crowd size and competition not confirmed. Nov 1 recheck: page still says open, deadline is today Nov 1 at 5pm CT, no late applications.",
+   "nt": "New. City page says applications are reviewed in order received since Sept 1 and close Nov 1, 5pm. Gift market with artisans and gourmet foods, tree lighting; vendors must show proof of qualifying for cottage law. Mileage is an estimate. Fee, crowd size and competition not confirmed. Nov 1 recheck: page still says open, deadline is today Nov 1 at 5pm CT, no late applications. Nov 2 recheck: Nov 1 5pm deadline has passed; no late applications accepted, so marked closed.",
    "x": "Certificate of insurance due Nov 21. Mandatory vendor meeting date TBA. Bring weighted tent. Over 45 miles, so only worth it if the fee is modest.",
    "rk": 58
   },
@@ -1809,7 +1809,7 @@
    "dn": "Form says Friday Nov 8 with $50 late fee (Nov 8, 2026 is a Sunday, so the date may be left over from a prior year)",
    "ap": "https://form.jotform.com/262073843707157",
    "ct": "Weatherford Chamber, Gloria Martinez 817-596-3801",
-   "nt": "New. Form lists Dec 5, 2026 and says cottage food vendors follow the Texas cottage food law. First come, first served. Fee, crowd and competition not confirmed; mileage is an estimate. Confirm the deadline with the Chamber. Oct 27 recheck: organizer form lists the fees above; application form shows no closed notice. Deadline still unconfirmed. Oct 29 recheck: form still says 'Friday, Nov. 8' but Nov 8, 2026 is a Sunday, so the weekday/date look carried over from an earlier year; confirm with the Chamber.",
+   "nt": "New. Form lists Dec 5, 2026 and says cottage food vendors follow the Texas cottage food law. First come, first served. Fee, crowd and competition not confirmed; mileage is an estimate. Confirm the deadline with the Chamber. Oct 27 recheck: organizer form lists the fees above; application form shows no closed notice. Deadline still unconfirmed. Oct 29 recheck: form still says 'Friday, Nov. 8' but Nov 8, 2026 is a Sunday, so the weekday/date look carried over from an earlier year; confirm with the Chamber. Nov 2 recheck: form unchanged, still shows the Nov 8 deadline wording; status not stated.",
    "x": "Bring your own tent with 30 lb weights, tables and chairs. Texas sales tax ID and booth/product photos required. Theme: Gingerbread Christmas.",
    "rk": 38
   },
