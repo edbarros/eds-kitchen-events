@@ -1,10 +1,10 @@
 {
  "appId": "com.edbarros.kitchendesk",
- "version": "0.1.2.web102",
- "webBuild": 102,
+ "version": "0.1.2.web105",
+ "webBuild": 105,
  "minApi": 2,
  "file": "index.html",
- "sig": "4WGUlhSNCN2v8Jt6FG8rtrypc31/ZaiDnatl7HZoMIIJ8ghpPmx1sJWrOmCAGnw6GpLMnBcdQqtUy7Sh64TpAg==",
- "sha256": "9b720108c2dc5e0401bd66b98600e02feaee4048547555177421ff2263414e68",
- "bytes": 791752
+ "sig": "tRJgZBKJBwYIu/MqAjJMpG9StrX3cQFtrXoRo5k4Abv8EMaWDCvC0+RhLVrx0DW1dXr0yIa/5b+LCvh82A9/AQ==",
+ "sha256": "b4ae07b4e3e6826bdf8bd8919bd0b0e48f9b216022b1fd45719a4235a6460116",
+ "bytes": 793210
 }
