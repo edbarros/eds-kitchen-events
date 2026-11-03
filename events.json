@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "updated": "2026-11-02T11:12:44Z",
+ "updated": "2026-11-03T11:09:51Z",
  "events": [
   {
    "id": "mansfield-fcm",
@@ -214,14 +214,14 @@
     "12-20"
    ],
    "tm": "Sun 9am-1pm",
-   "st": "check",
+   "st": "closed",
    "ck": "yes",
    "mi": 21,
    "fee": "$35 application; stall fees are in a handbook that isn't public",
-   "dn": "2026 application listed as open",
+   "dn": "2026 application closed; sign up for the 2027 alert on the organizer page",
    "ap": "https://www.goodlocalmarkets.org/application",
    "ct": "info@goodlocalmarkets.org",
-   "nt": "One $35 application covers all three Good Local Markets. Oct 23 recheck: the page accepts cottage food applicants (food handler certificate, compliant label, ingredient list). Categories at capacity include bread, sweet bakes, honey, jelly, pickles; nut butter not listed either way. Rolling review, no guarantee. Oct 31 recheck: closed 11/29 and 12/13 per organizer; ends Dec 20.",
+   "nt": "One $35 application covers all three Good Local Markets. Oct 23 recheck: the page accepts cottage food applicants (food handler certificate, compliant label, ingredient list). Categories at capacity include bread, sweet bakes, honey, jelly, pickles; nut butter not listed either way. Rolling review, no guarantee. Oct 31 recheck: closed 11/29 and 12/13 per organizer; ends Dec 20. Nov 3 recheck: organizer page says the 2026 vendor application is closed (alert signup for 2027).",
    "x": "Closed Nov 15 and Nov 29.",
    "rk": 57
   },
@@ -247,14 +247,14 @@
     "12-19"
    ],
    "tm": "Sat 8am-12pm",
-   "st": "check",
+   "st": "closed",
    "ck": "yes",
    "mi": 23,
    "fee": "$35 application; stall fees are in a handbook that isn't public",
-   "dn": "2026 application listed as open",
+   "dn": "2026 application closed; sign up for the 2027 alert on the organizer page",
    "ap": "https://www.goodlocalmarkets.org/application",
    "ct": "info@goodlocalmarkets.org",
-   "nt": "One $35 application covers all three Good Local Markets. Oct 23 recheck: the page accepts cottage food applicants (food handler certificate, compliant label, ingredient list). Categories at capacity include bread, sweet bakes, honey, jelly, pickles; nut butter not listed either way. Rolling review, no guarantee. Oct 31 recheck: closed 11/28; several categories at capacity (bread, sweet bakes, honey, jelly, etc.); no deadline.",
+   "nt": "One $35 application covers all three Good Local Markets. Oct 23 recheck: the page accepts cottage food applicants (food handler certificate, compliant label, ingredient list). Categories at capacity include bread, sweet bakes, honey, jelly, pickles; nut butter not listed either way. Rolling review, no guarantee. Oct 31 recheck: closed 11/28; several categories at capacity (bread, sweet bakes, honey, jelly, etc.); no deadline. Nov 3 recheck: organizer page says the 2026 vendor application is closed (alert signup for 2027).",
    "x": "Season is listed through Dec 20, which is a Sunday, so the last Saturday is unconfirmed.",
    "rk": 57
   },
