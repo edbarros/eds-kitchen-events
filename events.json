@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "updated": "2026-11-05T11:10:46Z",
+ "updated": "2026-11-06T11:09:29Z",
  "events": [
   {
    "id": "mansfield-fcm",
@@ -27,7 +27,7 @@
    "dn": "Applications taken through October; the season ends Nov 21",
    "ap": "https://vendors-mtxfcm.com/",
    "ct": "TheMarket@MTxFCM.com (put your business name in the subject)",
-   "nt": "Cottage food is the point of this market and the page lists nuts as an example. Oct 31 is their Fall Harvest Festival with extra vendors and traffic. A December Christmas Market is on their site with no date yet. Oct 26 recheck: season runs through the third Saturday of November (Nov 21); applications still open with no deadline, a waitlist may form for full categories. The December event is the city's Home for the Holidays; see mtxfcm.com/calendar. Nov 5 recheck: page unchanged (applications Jan-Oct, no closing date, season ends third Saturday of Nov); December event is Home for the Holidays, no date.",
+   "nt": "Cottage food is the point of this market and the page lists nuts as an example. Oct 31 is their Fall Harvest Festival with extra vendors and traffic. A December Christmas Market is on their site with no date yet. Oct 26 recheck: season runs through the third Saturday of November (Nov 21); applications still open with no deadline, a waitlist may form for full categories. The December event is the city's Home for the Holidays; see mtxfcm.com/calendar. Nov 5 recheck: page unchanged (applications Jan-Oct, no closing date, season ends third Saturday of Nov); December event is Home for the Holidays, no date. Nov 6 recheck: unchanged (season ends Nov 21, no deadline, December event undated).",
    "x": "10x20 is $45, 10x30 is $55. Attend weekly, every other week, monthly or special events only. Insurance not stated."
   },
   {
@@ -280,7 +280,7 @@
    "dn": "2027 applications open now (year-round, reviewed weekly, decision in about 2 weeks)",
    "ap": "https://dallasfarmersmarket.org/join-the-market/",
    "ct": "info@dallasfarmersmarket.org, (214) 664-9110",
-   "nt": "Oct 30 recheck: organizer page says 2027 applications are open now; $45 nonrefundable fee due before review. Ask whether nut butter fits an open category (baked goods listed as full). Cottage food unconfirmed, so score is capped. Nov 5 recheck: 2027 applications open year-round, $45 nonrefundable fee, no deadline.",
+   "nt": "Oct 30 recheck: organizer page says 2027 applications are open now; $45 nonrefundable fee due before review. Ask whether nut butter fits an open category (baked goods listed as full). Cottage food unconfirmed, so score is capped. Nov 5 recheck: 2027 applications open year-round, $45 nonrefundable fee, no deadline. Nov 6 recheck: page updated Oct 29; 2027 applications open year-round, $45 fee, bakery/beverage etc. listed full.",
    "x": "Food handler card and general liability insurance are required after approval. Booth fees aren't public.",
    "rk": 38
   },
@@ -483,7 +483,7 @@
    "dn": "Apply per date",
    "ap": "https://bishopbazaar.com/applybazaar",
    "ct": "Via Eventeny",
-   "nt": "The homepage lists Sept 20, Oct 4 and Oct 25. No November or December 2026 dates were confirmed. Oct 23 recheck: second half of fall is Nov 15, Dec 6, Dec 20 (11am-6pm), but those applications ran Aug 5-Sep 9 (closed); first-half applications also closed with a waitlist. Nov 5 recheck: organizer page lists Nov 15, Dec 6, Dec 20 markets (Bishop Arts, 11am-6pm); fall part 2 application is on Eventeny (bishop-bazaar-fall-season-part-2-33245), open status not confirmed.",
+   "nt": "The homepage lists Sept 20, Oct 4 and Oct 25. No November or December 2026 dates were confirmed. Oct 23 recheck: second half of fall is Nov 15, Dec 6, Dec 20 (11am-6pm), but those applications ran Aug 5-Sep 9 (closed); first-half applications also closed with a waitlist. Nov 5 recheck: organizer page lists Nov 15, Dec 6, Dec 20 markets (Bishop Arts, 11am-6pm); fall part 2 application is on Eventeny (bishop-bazaar-fall-season-part-2-33245), open status not confirmed. Nov 6 recheck: Eventeny part 1 (id 48993) deadline Jul 2026, closed; part 2 status still unconfirmed.",
    "x": "Apply per date on Eventeny. No electricity."
   },
   {
@@ -1809,7 +1809,7 @@
    "dn": "Form says Friday Nov 8 with $50 late fee (Nov 8, 2026 is a Sunday, so the date may be left over from a prior year)",
    "ap": "https://form.jotform.com/262073843707157",
    "ct": "Weatherford Chamber, Gloria Martinez 817-596-3801",
-   "nt": "New. Form lists Dec 5, 2026 and says cottage food vendors follow the Texas cottage food law. First come, first served. Fee, crowd and competition not confirmed; mileage is an estimate. Confirm the deadline with the Chamber. Oct 27 recheck: organizer form lists the fees above; application form shows no closed notice. Deadline still unconfirmed. Oct 29 recheck: form still says 'Friday, Nov. 8' but Nov 8, 2026 is a Sunday, so the weekday/date look carried over from an earlier year; confirm with the Chamber. Nov 2 recheck: form unchanged, still shows the Nov 8 deadline wording; status not stated. Nov 5 recheck: page still gives 'Friday, Nov. 8' deadline, $75/$100 for 10x10 pre-packaged food, first come first served; open status not stated.",
+   "nt": "New. Form lists Dec 5, 2026 and says cottage food vendors follow the Texas cottage food law. First come, first served. Fee, crowd and competition not confirmed; mileage is an estimate. Confirm the deadline with the Chamber. Oct 27 recheck: organizer form lists the fees above; application form shows no closed notice. Deadline still unconfirmed. Oct 29 recheck: form still says 'Friday, Nov. 8' but Nov 8, 2026 is a Sunday, so the weekday/date look carried over from an earlier year; confirm with the Chamber. Nov 2 recheck: form unchanged, still shows the Nov 8 deadline wording; status not stated. Nov 5 recheck: page still gives 'Friday, Nov. 8' deadline, $75/$100 for 10x10 pre-packaged food, first come first served; open status not stated. Nov 6 recheck: form unchanged, Dec 5 2026, deadline wording still 'Friday, Nov. 8'; status unconfirmed.",
    "x": "Bring your own tent with 30 lb weights, tables and chairs. Texas sales tax ID and booth/product photos required. Theme: Gingerbread Christmas.",
    "rk": 38
   },
@@ -1854,7 +1854,7 @@
    "dn": "No deadline posted; space limited",
    "ap": "https://dallas.crewnetwork.org/events/holiday-market",
    "ct": "Via the CREW Dallas event page",
-   "nt": "New (Oct 26). CREW Dallas page lists a 3rd annual holiday market with artisans, specialty vendors and food merchants. Only a 2-hour evening event. Cottage food rules, crowd size and competition not stated; mileage is an estimate. Nov 5 recheck: unchanged; $100, no deadline, space limited.",
+   "nt": "New (Oct 26). CREW Dallas page lists a 3rd annual holiday market with artisans, specialty vendors and food merchants. Only a 2-hour evening event. Cottage food rules, crowd size and competition not stated; mileage is an estimate. Nov 5 recheck: unchanged; $100, no deadline, space limited. Nov 6 recheck: Nov 19 5-7pm Hall Arts Hotel, $100, space limited, status not stated.",
    "x": "Ask whether packaged cottage food is allowed and how many food vendors are booked.",
    "rk": 35
   },
@@ -1902,9 +1902,33 @@
    "dn": "Listed Dec 31, 2026, but cards are charged on acceptance about a month before the event, so Nov 14 is likely already too late",
    "ap": "https://www.eventeny.com/events/vendor/?id=49059",
    "ct": "PlugHub Market via Eventeny",
-   "nt": "New (Nov 5). Eventeny page: food-focused night market by PlugHub Market with live music, DJs, watershow; Eventeny says cottage vendors apply under Regular Booth. Fees nonrefundable. Attendance and ticket price not stated; mileage is an estimate. Ask whether late applicants are accepted for Nov 14.",
+   "nt": "New (Nov 5). Eventeny page: food-focused night market by PlugHub Market with live music, DJs, watershow; Eventeny says cottage vendors apply under Regular Booth. Fees nonrefundable. Attendance and ticket price not stated; mileage is an estimate. Ask whether late applicants are accepted for Nov 14. Nov 6 recheck: unchanged; card charged on acceptance, updates within 48h for events within a month.",
    "x": "All tents must be white. No electricity provided. Many food vendors, so competition is likely higher.",
    "rk": 50
+  },
+  {
+   "id": "stnicholas-dallas",
+   "n": "St. Nicholas Christmas Market (Holy Communion Cathedral, Dallas)",
+   "s": "St. Nicholas Market",
+   "city": "Dallas",
+   "v": "Lunt Hall, 17405 Muirfield Dr",
+   "t": "holiday",
+   "d": [
+    "12-05"
+   ],
+   "tm": "",
+   "st": "check",
+   "ck": "ask",
+   "mi": 38,
+   "fee": "$60 for an 8x6 booth; electricity +$10",
+   "fn": 60,
+   "dl": "12-01",
+   "dn": "Application deadline Dec 1, 2026; 50 booths",
+   "ap": "https://forms.gle/Dih1iJn2c4AiE2Nh6",
+   "ct": "See dfwcrafts.com/event/a-christmas-market",
+   "nt": "New (Nov 6). Via thecraftmap listing: church-hosted, 50 vendor spots. Cottage food rules and attendance not listed; mileage is an estimate. Ask whether packaged nut butter is allowed.",
+   "x": "",
+   "rk": 35
   }
  ]
 }
