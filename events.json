@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "updated": "2026-11-06T11:09:29Z",
+ "updated": "2026-11-10T11:10:07Z",
  "events": [
   {
    "id": "mansfield-fcm",
@@ -483,7 +483,7 @@
    "dn": "Apply per date",
    "ap": "https://bishopbazaar.com/applybazaar",
    "ct": "Via Eventeny",
-   "nt": "The homepage lists Sept 20, Oct 4 and Oct 25. No November or December 2026 dates were confirmed. Oct 23 recheck: second half of fall is Nov 15, Dec 6, Dec 20 (11am-6pm), but those applications ran Aug 5-Sep 9 (closed); first-half applications also closed with a waitlist. Nov 5 recheck: organizer page lists Nov 15, Dec 6, Dec 20 markets (Bishop Arts, 11am-6pm); fall part 2 application is on Eventeny (bishop-bazaar-fall-season-part-2-33245), open status not confirmed. Nov 6 recheck: Eventeny part 1 (id 48993) deadline Jul 2026, closed; part 2 status still unconfirmed.",
+   "nt": "The homepage lists Sept 20, Oct 4 and Oct 25. No November or December 2026 dates were confirmed. Oct 23 recheck: second half of fall is Nov 15, Dec 6, Dec 20 (11am-6pm), but those applications ran Aug 5-Sep 9 (closed); first-half applications also closed with a waitlist. Nov 5 recheck: organizer page lists Nov 15, Dec 6, Dec 20 markets (Bishop Arts, 11am-6pm); fall part 2 application is on Eventeny (bishop-bazaar-fall-season-part-2-33245), open status not confirmed. Nov 6 recheck: Eventeny part 1 (id 48993) deadline Jul 2026, closed; part 2 status still unconfirmed. Nov 10 recheck: Eventeny part 1 (id 48993) deadline Jul 17, 2026 passed; part 2 open status still unconfirmed. 5x10 cottage booths $100.",
    "x": "Apply per date on Eventeny. No electricity."
   },
   {
