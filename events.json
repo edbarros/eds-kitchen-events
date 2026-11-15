@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "updated": "2026-11-14T11:09:08Z",
+ "updated": "2026-11-15T11:08:22Z",
  "events": [
   {
    "id": "mansfield-fcm",
@@ -27,7 +27,7 @@
    "dn": "Applications taken through October; the season ends Nov 21",
    "ap": "https://vendors-mtxfcm.com/",
    "ct": "TheMarket@MTxFCM.com (put your business name in the subject)",
-   "nt": "Cottage food is the point of this market and the page lists nuts as an example. Oct 31 is their Fall Harvest Festival with extra vendors and traffic. A December Christmas Market is on their site with no date yet. Oct 26 recheck: season runs through the third Saturday of November (Nov 21); applications still open with no deadline, a waitlist may form for full categories. The December event is the city's Home for the Holidays; see mtxfcm.com/calendar. Nov 5 recheck: page unchanged (applications Jan-Oct, no closing date, season ends third Saturday of Nov); December event is Home for the Holidays, no date. Nov 6 recheck: unchanged (season ends Nov 21, no deadline, December event undated). Nov 12 recheck: season ends third Saturday of Nov (Nov 21); page says applications Jan-Oct; unchanged. Nov 14 recheck: unchanged (applications Jan-Oct, season ends Nov 21, December event is Home for the Holidays, no date).",
+   "nt": "Cottage food is the point of this market and the page lists nuts as an example. Oct 31 is their Fall Harvest Festival with extra vendors and traffic. A December Christmas Market is on their site with no date yet. Oct 26 recheck: season runs through the third Saturday of November (Nov 21); applications still open with no deadline, a waitlist may form for full categories. The December event is the city's Home for the Holidays; see mtxfcm.com/calendar. Nov 5 recheck: page unchanged (applications Jan-Oct, no closing date, season ends third Saturday of Nov); December event is Home for the Holidays, no date. Nov 6 recheck: unchanged (season ends Nov 21, no deadline, December event undated). Nov 12 recheck: season ends third Saturday of Nov (Nov 21); page says applications Jan-Oct; unchanged. Nov 14 recheck: unchanged (applications Jan-Oct, season ends Nov 21, December event is Home for the Holidays, no date). Nov 15 recheck: season ends Nov 21, applications Jan-Oct, no deadline; December event is Home for the Holidays, undated.",
    "x": "10x20 is $45, 10x30 is $55. Attend weekly, every other week, monthly or special events only. Insurance not stated."
   },
   {
@@ -57,7 +57,7 @@
    "dn": "Rolling. No deadline listed",
    "ap": "https://www.gptx.org/About-Grand-Prairie/Downtown-Grand-Prairie/Farmers-Market/Become-a-Vendor",
    "ct": "farmersmarket@gptx.org, 972-237-4798",
-   "nt": "Only food covered by the Texas Cottage Food law may be sold. The city's food-vendor steps mention a health permit application; ask whether a registered cottage vendor needs it. Closed Thanksgiving weekend. Season runs to Dec 12.",
+   "nt": "Only food covered by the Texas Cottage Food law may be sold. The city's food-vendor steps mention a health permit application; ask whether a registered cottage vendor needs it. Closed Thanksgiving weekend. Season runs to Dec 12. Nov 15 recheck: page gives no fee/dates/deadline; contact farmersmarket@gptx.org, 972-237-4798; food vendors submit an interest questionnaire.",
    "x": "Tent legs weighted 25 lb per corner. A product sample may be requested. Older 2023 rules said no fee, so confirm the $10."
   },
   {
@@ -280,7 +280,7 @@
    "dn": "2027 applications open now (year-round, reviewed weekly, decision in about 2 weeks)",
    "ap": "https://dallasfarmersmarket.org/join-the-market/",
    "ct": "info@dallasfarmersmarket.org, (214) 664-9110",
-   "nt": "Oct 30 recheck: organizer page says 2027 applications are open now; $45 nonrefundable fee due before review. Ask whether nut butter fits an open category (baked goods listed as full). Cottage food unconfirmed, so score is capped. Nov 5 recheck: 2027 applications open year-round, $45 nonrefundable fee, no deadline. Nov 6 recheck: page updated Oct 29; 2027 applications open year-round, $45 fee, bakery/beverage etc. listed full. Nov 13 recheck: 2027 applications open, $45 fee, no deadline; cottage food not mentioned. Nov 14 recheck: unchanged; $45 nonrefundable application fee, no deadline, 2027 apps open.",
+   "nt": "Oct 30 recheck: organizer page says 2027 applications are open now; $45 nonrefundable fee due before review. Ask whether nut butter fits an open category (baked goods listed as full). Cottage food unconfirmed, so score is capped. Nov 5 recheck: 2027 applications open year-round, $45 nonrefundable fee, no deadline. Nov 6 recheck: page updated Oct 29; 2027 applications open year-round, $45 fee, bakery/beverage etc. listed full. Nov 13 recheck: 2027 applications open, $45 fee, no deadline; cottage food not mentioned. Nov 14 recheck: unchanged; $45 nonrefundable application fee, no deadline, 2027 apps open. Nov 15 recheck: unchanged; 2027 apps open, $45 fee, no deadline, cottage food not mentioned.",
    "x": "Food handler card and general liability insurance are required after approval. Booth fees aren't public.",
    "rk": 38
   },
@@ -497,14 +497,14 @@
     "10-30"
    ],
    "tm": "Fri 6-9pm",
-   "st": "check",
+   "st": "closed",
    "ck": "ask",
    "mi": 2,
    "fee": "Not posted",
    "dn": "No deadline posted; limited booths, approval email only",
    "ap": "https://glennheightstx.gov/507/Fall-Festival",
    "ct": "972-223-1690 ext. 334 (2025 contact)",
-   "nt": "City page (re-checked Oct 26): Fri Oct 30, 2026, 6-9pm at Heritage Park, marked as a new date. Vendors apply by online form; booths limited and must fit the fall theme; no approval email means not approved. Fee and deadline not posted. Only 4 days out, so call 972-223-1690 ext. 334 before bothering.",
+   "nt": "City page (re-checked Oct 26): Fri Oct 30, 2026, 6-9pm at Heritage Park, marked as a new date. Vendors apply by online form; booths limited and must fit the fall theme; no approval email means not approved. Fee and deadline not posted. Only 4 days out, so call 972-223-1690 ext. 334 before bothering. Nov 15 recheck: city page still lists Oct 30 date, which has passed; marked closed.",
    "x": "The 2025 edition limited vendors to the Fall Fest theme and sent approval emails."
   },
   {
@@ -788,7 +788,7 @@
    "dn": "Unknown",
    "ap": "https://txchristkindlmarket.com/vendors/",
    "ct": "info@txchristkindlmarket.com",
-   "nt": "Runs Nov 20 to Dec 23. The 2026 food list already has roasted nuts, honey and cookie vendors, so pitch what's different about small-batch macadamia butter. Nov 5 recheck: vendor page still shows only 2025 dates; no 2026 details. Nov 12 recheck: vendor page still shows 2025 dates, no fee or deadline; contact info@txchristkindlmarket.com. Nov 13 recheck: page still lists 2025 dates (Nov 20-Dec 23); no fee or deadline; use the vendor interest form. Nov 14 recheck: vendor page still shows 2025 dates (Nov 20-22, Nov 27-Dec 23, 2025); no fee, deadline or 2026 info; contact info@txchristkindlmarket.com.",
+   "nt": "Runs Nov 20 to Dec 23. The 2026 food list already has roasted nuts, honey and cookie vendors, so pitch what's different about small-batch macadamia butter. Nov 5 recheck: vendor page still shows only 2025 dates; no 2026 details. Nov 12 recheck: vendor page still shows 2025 dates, no fee or deadline; contact info@txchristkindlmarket.com. Nov 13 recheck: page still lists 2025 dates (Nov 20-Dec 23); no fee or deadline; use the vendor interest form. Nov 14 recheck: vendor page still shows 2025 dates (Nov 20-22, Nov 27-Dec 23, 2025); no fee, deadline or 2026 info; contact info@txchristkindlmarket.com. Nov 15 recheck: page still shows only 2025 dates; links a vendor interest form; no 2026 details.",
    "x": "Vendor interest form asks for a product description and at least two photos."
   },
   {
@@ -1831,7 +1831,7 @@
    "dn": "No deadline posted; applications open now",
    "ap": "https://cottonwoodcreek.org/christmas-market/",
    "ct": "christmasmarket@cottonwoodcreek.org, 972-359-7777",
-   "nt": "New. Church page says 50+ vendors, selection committee, applications being accepted. Cottage food rules, fee and crowd not stated; mileage is an estimate. Nov 5 recheck: page lists Dec 5 9am-3pm, no fee/deadline/food rules; call 972-359-7777 or see their Facebook page. Nov 12 recheck: page unchanged, Dec 5 9am-3pm, no apply link, fee or food rules. Nov 13 recheck: page shows Dec 5, 9am-3pm only; no fee/deadline posted (Facebook or 972-359-7777). Nov 14 recheck: unchanged.",
+   "nt": "New. Church page says 50+ vendors, selection committee, applications being accepted. Cottage food rules, fee and crowd not stated; mileage is an estimate. Nov 5 recheck: page lists Dec 5 9am-3pm, no fee/deadline/food rules; call 972-359-7777 or see their Facebook page. Nov 12 recheck: page unchanged, Dec 5 9am-3pm, no apply link, fee or food rules. Nov 13 recheck: page shows Dec 5, 9am-3pm only; no fee/deadline posted (Facebook or 972-359-7777). Nov 14 recheck: unchanged. Nov 15 recheck: page lists Dec 5, 9am-3pm, 1015 Sam Rayburn Tollway; no fee, deadline or food rules posted.",
    "x": "Ask whether food jars are allowed and how many food vendors are accepted.",
    "rk": 30
   },
@@ -1854,7 +1854,7 @@
    "dn": "No deadline posted; space limited",
    "ap": "https://dallas.crewnetwork.org/events/holiday-market",
    "ct": "Via the CREW Dallas event page",
-   "nt": "New (Oct 26). CREW Dallas page lists a 3rd annual holiday market with artisans, specialty vendors and food merchants. Only a 2-hour evening event. Cottage food rules, crowd size and competition not stated; mileage is an estimate. Nov 5 recheck: unchanged; $100, no deadline, space limited. Nov 6 recheck: Nov 19 5-7pm Hall Arts Hotel, $100, space limited, status not stated. Nov 14 recheck: page now says registration open, space limited, $100, no deadline.",
+   "nt": "New (Oct 26). CREW Dallas page lists a 3rd annual holiday market with artisans, specialty vendors and food merchants. Only a 2-hour evening event. Cottage food rules, crowd size and competition not stated; mileage is an estimate. Nov 5 recheck: unchanged; $100, no deadline, space limited. Nov 6 recheck: Nov 19 5-7pm Hall Arts Hotel, $100, space limited, status not stated. Nov 14 recheck: page now says registration open, space limited, $100, no deadline. Nov 15 recheck: unchanged; Nov 19 5-7pm, $100, space limited, no deadline.",
    "x": "Ask whether packaged cottage food is allowed and how many food vendors are booked.",
    "rk": 35
   },
@@ -1902,7 +1902,7 @@
    "dn": "Listed Dec 31, 2026, but cards are charged on acceptance about a month before the event, so Nov 14 is likely already too late",
    "ap": "https://www.eventeny.com/events/vendor/?id=49059",
    "ct": "PlugHub Market via Eventeny",
-   "nt": "New (Nov 5). Eventeny page: food-focused night market by PlugHub Market with live music, DJs, watershow; Eventeny says cottage vendors apply under Regular Booth. Fees nonrefundable. Attendance and ticket price not stated; mileage is an estimate. Ask whether late applicants are accepted for Nov 14. Nov 6 recheck: unchanged; card charged on acceptance, updates within 48h for events within a month. Nov 12 recheck: unchanged (Eventeny still shows Start Application, deadline Dec 31); event is Nov 14, so almost certainly too late. Nov 13 recheck: Eventeny unchanged ($200 regular/$300 food, deadline Dec 31) but event is tomorrow; too late. Nov 14 recheck: Eventeny unchanged; event is tonight, too late.",
+   "nt": "New (Nov 5). Eventeny page: food-focused night market by PlugHub Market with live music, DJs, watershow; Eventeny says cottage vendors apply under Regular Booth. Fees nonrefundable. Attendance and ticket price not stated; mileage is an estimate. Ask whether late applicants are accepted for Nov 14. Nov 6 recheck: unchanged; card charged on acceptance, updates within 48h for events within a month. Nov 12 recheck: unchanged (Eventeny still shows Start Application, deadline Dec 31); event is Nov 14, so almost certainly too late. Nov 13 recheck: Eventeny unchanged ($200 regular/$300 food, deadline Dec 31) but event is tomorrow; too late. Nov 14 recheck: Eventeny unchanged; event is tonight, too late. Nov 15 recheck: Eventeny page shows event Nov 14, 2026 (now past), $200 booth/$300 food, deadline Dec 31; likely stale.",
    "x": "All tents must be white. No electricity provided. Many food vendors, so competition is likely higher.",
    "rk": 50
   },
@@ -1952,6 +1952,44 @@
    "nt": "New (Nov 14). Aggregator listings only (TheCraftMap): 12th annual, Dec 5 2026, up to 200 vendor spots, silent auction, Santa. Food and homemade goods are listed as categories but cottage food rules, attendance and competition are not stated; official application page not yet checked; mileage is an estimate. Capped at 40 until cottage food is confirmed.",
    "x": "Ask the organizer whether packaged cottage food is allowed and how many food vendors are accepted.",
    "rk": 30
+  },
+  {
+   "id": "be-our-guest-grapevine",
+   "n": "Be Our Guest Holiday Market (Grapevine)",
+   "s": "Be Our Guest Holiday Market",
+   "city": "Grapevine",
+   "v": "Grapevine, TX",
+   "t": "holiday",
+   "d": [
+    "11-22"
+   ],
+   "st": "check",
+   "ck": "unknown",
+   "mi": 50,
+   "fee": "$185-$370 per Eventeny listing",
+   "dn": "Listing says Nov 15, 2026",
+   "ap": "https://www.eventeny.com/events/vendor/?id=50936",
+   "nt": "New (Nov 15) via search result: Magical Meetups / New Row Productions market Nov 22 in Grapevine, food vendor application; deadline listed Nov 15, so likely closing today. Cottage food rules, crowd and competition unconfirmed; mileage estimated.",
+   "rk": 20
+  },
+  {
+   "id": "byron-nelson-dazzlers",
+   "n": "Byron Nelson Bobcat Dazzlers Holiday Market",
+   "s": "Bobcat Dazzlers Holiday Market",
+   "city": "Trophy Club",
+   "v": "Byron Nelson High School",
+   "t": "holiday",
+   "d": [
+    "12-12"
+   ],
+   "st": "check",
+   "ck": "unknown",
+   "mi": 55,
+   "fee": "$100 per booth per search listing",
+   "dn": "Unknown",
+   "ap": "https://form.jotform.com/260975335133054",
+   "nt": "New (Nov 15) via search result: Dec 12, 2026 school holiday market, $100 booth, one national vendor limit. Jotform currently says form unavailable, so it may be closed. Cottage food unconfirmed; mileage estimated.",
+   "rk": 15
   }
  ]
 }
