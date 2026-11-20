@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "updated": "2026-11-19T11:09:07Z",
+ "updated": "2026-11-20T11:09:10Z",
  "events": [
   {
    "id": "mansfield-fcm",
@@ -1534,7 +1534,7 @@
    "dn": "Unknown",
    "ap": "https://www.fairsandfestivals.net/events/details/2026-christmas-in-grapevine-craft-show",
    "ct": "Via the listing",
-   "nt": "Weekend after Thanksgiving in a tourist-heavy town. Find the organizer before paying anyone.",
+   "nt": "Weekend after Thanksgiving in a tourist-heavy town. Find the organizer before paying anyone. Nov 20 recheck: listing unchanged ($5 admission, Nov 28-29); fees and deadline still member-only.",
    "x": "Organizer not identified on the listing."
   },
   {
@@ -1809,7 +1809,7 @@
    "dn": "Form says Friday Nov 8 with $50 late fee (Nov 8, 2026 is a Sunday, so the date may be left over from a prior year)",
    "ap": "https://form.jotform.com/262073843707157",
    "ct": "Weatherford Chamber, Gloria Martinez 817-596-3801",
-   "nt": "New. Form lists Dec 5, 2026 and says cottage food vendors follow the Texas cottage food law. First come, first served. Fee, crowd and competition not confirmed; mileage is an estimate. Confirm the deadline with the Chamber. Oct 27 recheck: organizer form lists the fees above; application form shows no closed notice. Deadline still unconfirmed. Oct 29 recheck: form still says 'Friday, Nov. 8' but Nov 8, 2026 is a Sunday, so the weekday/date look carried over from an earlier year; confirm with the Chamber. Nov 2 recheck: form unchanged, still shows the Nov 8 deadline wording; status not stated. Nov 5 recheck: page still gives 'Friday, Nov. 8' deadline, $75/$100 for 10x10 pre-packaged food, first come first served; open status not stated. Nov 6 recheck: form unchanged, Dec 5 2026, deadline wording still 'Friday, Nov. 8'; status unconfirmed. Nov 12 recheck: form unchanged; Nov 8 deadline has passed, page says $50 late fee applies after it, so late entry may still be possible; call the Chamber. Nov 13 recheck: a search result says the registration deadline (Nov 8) has passed and a late fee applies; confirm with the organizer. Nov 16 recheck: form unchanged (Nov 8 deadline wording, $50 late fee, 10am-4pm, must stay open until 4pm or $300 fine); open status still not stated. Nov 18 recheck: form lists $100 non-member/$75 member 10x10 for pre-packaged food, $50 late fee after deadline (still printed as Nov 8); cottage food question on form; confirm date with Chamber.",
+   "nt": "New. Form lists Dec 5, 2026 and says cottage food vendors follow the Texas cottage food law. First come, first served. Fee, crowd and competition not confirmed; mileage is an estimate. Confirm the deadline with the Chamber. Oct 27 recheck: organizer form lists the fees above; application form shows no closed notice. Deadline still unconfirmed. Oct 29 recheck: form still says 'Friday, Nov. 8' but Nov 8, 2026 is a Sunday, so the weekday/date look carried over from an earlier year; confirm with the Chamber. Nov 2 recheck: form unchanged, still shows the Nov 8 deadline wording; status not stated. Nov 5 recheck: page still gives 'Friday, Nov. 8' deadline, $75/$100 for 10x10 pre-packaged food, first come first served; open status not stated. Nov 6 recheck: form unchanged, Dec 5 2026, deadline wording still 'Friday, Nov. 8'; status unconfirmed. Nov 12 recheck: form unchanged; Nov 8 deadline has passed, page says $50 late fee applies after it, so late entry may still be possible; call the Chamber. Nov 13 recheck: a search result says the registration deadline (Nov 8) has passed and a late fee applies; confirm with the organizer. Nov 16 recheck: form unchanged (Nov 8 deadline wording, $50 late fee, 10am-4pm, must stay open until 4pm or $300 fine); open status still not stated. Nov 18 recheck: form lists $100 non-member/$75 member 10x10 for pre-packaged food, $50 late fee after deadline (still printed as Nov 8); cottage food question on form; confirm date with Chamber. Nov 20 recheck: form unchanged (Nov 8 deadline wording, $50 late fee, Dec 5); open status still not stated.",
    "x": "Bring your own tent with 30 lb weights, tables and chairs. Texas sales tax ID and booth/product photos required. Theme: Gingerbread Christmas.",
    "rk": 38
   },
@@ -1940,16 +1940,16 @@
    "d": [
     "12-05"
    ],
-   "st": "check",
+   "st": "closed",
    "ck": "unknown",
    "mi": 40,
    "fee": "$100 (10x6 is $60, 10x10 large booth $100), plus $20+ silent auction donation",
    "fn": 100,
    "dl": "11-22",
-   "dn": "Nov 22 per organizer listing (Eventbrite sign-up); not confirmed full or open",
+   "dn": "Closed (organizer page, Nov 20: \"VENDOR APPLICATIONS ARE CLOSED\")",
    "ap": "https://dfwcrafts.com/event/honeycombs-holiday-market",
    "ct": "Brewer High School / dfwcrafts.com event page",
-   "nt": "New (Nov 14). Aggregator listings only (TheCraftMap): 12th annual, Dec 5 2026, up to 200 vendor spots, silent auction, Santa. Food and homemade goods are listed as categories but cottage food rules, attendance and competition are not stated; official application page not yet checked; mileage is an estimate. Capped at 40 until cottage food is confirmed. Nov 16 recheck: dfwcrafts page confirms Dec 5 9:30am-2pm at Brewer High School, $1 attendee admission, 10x10 $100 / 10x6 $60, vendors donate a silent-auction item worth $20+, applications due Nov 22; no cottage food rules (ask hcboosterpresident@gmail.com). Official signup: https://www.eventbrite.com/e/12th-annual-bhs-honeycomb-holiday-market-vendor-sign-up-only-registration-1996656794220 Nov 18 recheck: Dec 5, 9:30am-2pm, Brewer High School indoors, 1025 W Loop 820 N. Listing says food vendors welcome but gives no cottage food rule; contact hcboosterpresident@gmail.com. Nov 19 recheck: dfwcrafts lists Dec 5, 9:30am-2pm, $1 admission; vendor status not listed; unchanged.",
+   "nt": "New (Nov 14). Aggregator listings only (TheCraftMap): 12th annual, Dec 5 2026, up to 200 vendor spots, silent auction, Santa. Food and homemade goods are listed as categories but cottage food rules, attendance and competition are not stated; official application page not yet checked; mileage is an estimate. Capped at 40 until cottage food is confirmed. Nov 16 recheck: dfwcrafts page confirms Dec 5 9:30am-2pm at Brewer High School, $1 attendee admission, 10x10 $100 / 10x6 $60, vendors donate a silent-auction item worth $20+, applications due Nov 22; no cottage food rules (ask hcboosterpresident@gmail.com). Official signup: https://www.eventbrite.com/e/12th-annual-bhs-honeycomb-holiday-market-vendor-sign-up-only-registration-1996656794220 Nov 18 recheck: Dec 5, 9:30am-2pm, Brewer High School indoors, 1025 W Loop 820 N. Listing says food vendors welcome but gives no cottage food rule; contact hcboosterpresident@gmail.com. Nov 19 recheck: dfwcrafts lists Dec 5, 9:30am-2pm, $1 admission; vendor status not listed; unchanged. Nov 20 recheck: organizer page says vendor applications are closed.",
    "x": "Ask the organizer whether packaged cottage food is allowed and how many food vendors are accepted.",
    "rk": 30
   },
