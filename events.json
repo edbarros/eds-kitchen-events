@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "updated": "2026-11-22T11:08:08Z",
+ "updated": "2026-11-24T11:08:14Z",
  "events": [
   {
    "id": "mansfield-fcm",
@@ -1988,7 +1988,7 @@
    "fee": "$100 per booth per search listing",
    "dn": "Unknown",
    "ap": "https://form.jotform.com/260975335133054",
-   "nt": "New (Nov 15) via search result: Dec 12, 2026 school holiday market, $100 booth, one national vendor limit. Jotform currently says form unavailable, so it may be closed. Cottage food unconfirmed; mileage estimated.",
+   "nt": "New (Nov 15) via search result: Dec 12, 2026 school holiday market, $100 booth, one national vendor limit. Jotform currently says form unavailable, so it may be closed. Cottage food unconfirmed; mileage estimated. Nov 24 recheck: the Jotform registration form now shows 'This form is currently unavailable', so registration appears closed; unconfirmed.",
    "rk": 15
   }
  ]
