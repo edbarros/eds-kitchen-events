@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "updated": "2026-11-25T11:08:26Z",
+ "updated": "2026-11-26T11:30:00Z",
  "events": [
   {
    "id": "mansfield-fcm",
@@ -280,7 +280,7 @@
    "dn": "2027 applications open now (year-round, reviewed weekly, decision in about 2 weeks)",
    "ap": "https://dallasfarmersmarket.org/join-the-market/",
    "ct": "info@dallasfarmersmarket.org, (214) 664-9110",
-   "nt": "Oct 30 recheck: organizer page says 2027 applications are open now; $45 nonrefundable fee due before review. Ask whether nut butter fits an open category (baked goods listed as full). Cottage food unconfirmed, so score is capped. Nov 5 recheck: 2027 applications open year-round, $45 nonrefundable fee, no deadline. Nov 6 recheck: page updated Oct 29; 2027 applications open year-round, $45 fee, bakery/beverage etc. listed full. Nov 13 recheck: 2027 applications open, $45 fee, no deadline; cottage food not mentioned. Nov 14 recheck: unchanged; $45 nonrefundable application fee, no deadline, 2027 apps open. Nov 15 recheck: unchanged; 2027 apps open, $45 fee, no deadline, cottage food not mentioned. Nov 18 recheck: application fee $45 nonrefundable; baked goods, beverages full but can reapply; spices/jams/preserves open; food handler card and liability insurance required after approval. Nov 19 recheck: 2027 applications open, $45 fee, no deadline; baked goods and beverages full; food handler card and insurance after approval; unchanged. Nov 21 recheck: 2027 applications open, $45, no deadline; unchanged. Nov 22 recheck: 2027 applications open year-round, $45 nonrefundable fee, reviewed weekly; jams, pickles, spices, hot sauce categories listed; baked goods full; nut butter category not named, email info@dallasfarmersmarket.org. Nov 25 recheck: unchanged (2027 applications open, $45, baked goods full).",
+   "nt": "Oct 30 recheck: organizer page says 2027 applications are open now; $45 nonrefundable fee due before review. Ask whether nut butter fits an open category (baked goods listed as full). Cottage food unconfirmed, so score is capped. Nov 5 recheck: 2027 applications open year-round, $45 nonrefundable fee, no deadline. Nov 6 recheck: page updated Oct 29; 2027 applications open year-round, $45 fee, bakery/beverage etc. listed full. Nov 13 recheck: 2027 applications open, $45 fee, no deadline; cottage food not mentioned. Nov 14 recheck: unchanged; $45 nonrefundable application fee, no deadline, 2027 apps open. Nov 15 recheck: unchanged; 2027 apps open, $45 fee, no deadline, cottage food not mentioned. Nov 18 recheck: application fee $45 nonrefundable; baked goods, beverages full but can reapply; spices/jams/preserves open; food handler card and liability insurance required after approval. Nov 19 recheck: 2027 applications open, $45 fee, no deadline; baked goods and beverages full; food handler card and insurance after approval; unchanged. Nov 21 recheck: 2027 applications open, $45, no deadline; unchanged. Nov 22 recheck: 2027 applications open year-round, $45 nonrefundable fee, reviewed weekly; jams, pickles, spices, hot sauce categories listed; baked goods full; nut butter category not named, email info@dallasfarmersmarket.org. Nov 25 recheck: unchanged (2027 applications open, $45, baked goods full). Nov 26 recheck: 2027 applications open year-round, $45 non-refundable fee, many categories full (baked goods, jewelry, candles); no deadline.",
    "x": "Food handler card and general liability insurance are required after approval. Booth fees aren't public.",
    "rk": 38
   },
@@ -586,7 +586,7 @@
     "11-07"
    ],
    "tm": "Fri 9am-5pm, Sat 9am-3pm",
-   "st": "open",
+   "st": "closed",
    "ck": "ask",
    "mi": 19,
    "fee": "$35 for a 10x10 (both days); $30 for 10x6; $25 for 10x3",
@@ -595,7 +595,7 @@
    "dn": "Oct 26",
    "ap": "https://anc.apm.activecommunities.com/irvingrec/activity/search?onlineSiteId=0&locale=en-US&activity_select_param=2&activity_keyword=Craft%2FAntique%20Fair%20&viewMode=list",
    "ct": "David Martinez, dvmartinez@irvingtx.gov, (972) 721-7313",
-   "nt": "Cheapest two-day event on the list. It is a crafts and antiques show, so email to ask whether packaged food is allowed before paying.",
+   "nt": "Cheapest two-day event on the list. It is a crafts and antiques show, so email to ask whether packaged food is allowed before paying. Nov 26: event date has passed; marked closed.",
    "x": "Includes a table, two chairs, electricity and wifi. Juried, indoor, free admission. Setup Thursday after 3pm."
   },
   {
@@ -630,7 +630,7 @@
     "11-14"
    ],
    "tm": "Sat 9am-3pm",
-   "st": "open",
+   "st": "closed",
    "ck": "ask",
    "mi": 25,
    "fee": "$50 for a 10x8, $80 for 20x8; electricity $10",
@@ -639,7 +639,7 @@
    "dn": "Oct 15",
    "ap": "https://peacechurchdfw.typeform.com/to/dHSuL6pJ",
    "ct": "Amber Heady, info@peacechurch.org",
-   "nt": "Inside 30 miles as the crow flies but about 35 miles of driving. Food policy isn't stated.",
+   "nt": "Inside 30 miles as the crow flies but about 35 miles of driving. Food policy isn't stated. Nov 26: event date has passed; marked closed.",
    "x": "Juried, about 50 spots. Tables and chairs included."
   },
   {
@@ -802,7 +802,7 @@
     "11-21"
    ],
    "tm": "Sat 9am-2pm",
-   "st": "open",
+   "st": "closed",
    "ck": "ask",
    "mi": 20,
    "fee": "$75 for a 10x10 (no electric), $80 with; 5x10 with electric $60",
@@ -811,7 +811,7 @@
    "dn": "Nov 17",
    "ap": "https://www.zeffy.com/en-US/ticketing/2026-breakfast-with-santa-market-booth-registration",
    "ct": "James Daugherty, wbcfundraising@khsband.com",
-   "nt": "The listing says vendors may sell 'specialty foods' but gives no rules. Same day as the last Mansfield Saturday. Nov 19 recheck: Zeffy page returned 403 (fetch failed); event Nov 21 so likely too late.",
+   "nt": "The listing says vendors may sell 'specialty foods' but gives no rules. Same day as the last Mansfield Saturday. Nov 19 recheck: Zeffy page returned 403 (fetch failed); event Nov 21 so likely too late. Nov 26: event date has passed; marked closed.",
    "x": "Electricity $5. Vendor meal ticket $5. Indoor in two gyms, free admission. Setup help and refreshments included."
   },
   {
@@ -1809,7 +1809,7 @@
    "dn": "Form says Friday Nov 8 with $50 late fee (Nov 8, 2026 is a Sunday, so the date may be left over from a prior year)",
    "ap": "https://form.jotform.com/262073843707157",
    "ct": "Weatherford Chamber, Gloria Martinez 817-596-3801",
-   "nt": "New. Form lists Dec 5, 2026 and says cottage food vendors follow the Texas cottage food law. First come, first served. Fee, crowd and competition not confirmed; mileage is an estimate. Confirm the deadline with the Chamber. Oct 27 recheck: organizer form lists the fees above; application form shows no closed notice. Deadline still unconfirmed. Oct 29 recheck: form still says 'Friday, Nov. 8' but Nov 8, 2026 is a Sunday, so the weekday/date look carried over from an earlier year; confirm with the Chamber. Nov 2 recheck: form unchanged, still shows the Nov 8 deadline wording; status not stated. Nov 5 recheck: page still gives 'Friday, Nov. 8' deadline, $75/$100 for 10x10 pre-packaged food, first come first served; open status not stated. Nov 6 recheck: form unchanged, Dec 5 2026, deadline wording still 'Friday, Nov. 8'; status unconfirmed. Nov 12 recheck: form unchanged; Nov 8 deadline has passed, page says $50 late fee applies after it, so late entry may still be possible; call the Chamber. Nov 13 recheck: a search result says the registration deadline (Nov 8) has passed and a late fee applies; confirm with the organizer. Nov 16 recheck: form unchanged (Nov 8 deadline wording, $50 late fee, 10am-4pm, must stay open until 4pm or $300 fine); open status still not stated. Nov 18 recheck: form lists $100 non-member/$75 member 10x10 for pre-packaged food, $50 late fee after deadline (still printed as Nov 8); cottage food question on form; confirm date with Chamber. Nov 20 recheck: form unchanged (Nov 8 deadline wording, $50 late fee, Dec 5); open status still not stated. Nov 21 recheck: form still prints a Nov 8 deadline with $50 late fee; open status not stated, confirm with Chamber.",
+   "nt": "New. Form lists Dec 5, 2026 and says cottage food vendors follow the Texas cottage food law. First come, first served. Fee, crowd and competition not confirmed; mileage is an estimate. Confirm the deadline with the Chamber. Oct 27 recheck: organizer form lists the fees above; application form shows no closed notice. Deadline still unconfirmed. Oct 29 recheck: form still says 'Friday, Nov. 8' but Nov 8, 2026 is a Sunday, so the weekday/date look carried over from an earlier year; confirm with the Chamber. Nov 2 recheck: form unchanged, still shows the Nov 8 deadline wording; status not stated. Nov 5 recheck: page still gives 'Friday, Nov. 8' deadline, $75/$100 for 10x10 pre-packaged food, first come first served; open status not stated. Nov 6 recheck: form unchanged, Dec 5 2026, deadline wording still 'Friday, Nov. 8'; status unconfirmed. Nov 12 recheck: form unchanged; Nov 8 deadline has passed, page says $50 late fee applies after it, so late entry may still be possible; call the Chamber. Nov 13 recheck: a search result says the registration deadline (Nov 8) has passed and a late fee applies; confirm with the organizer. Nov 16 recheck: form unchanged (Nov 8 deadline wording, $50 late fee, 10am-4pm, must stay open until 4pm or $300 fine); open status still not stated. Nov 18 recheck: form lists $100 non-member/$75 member 10x10 for pre-packaged food, $50 late fee after deadline (still printed as Nov 8); cottage food question on form; confirm date with Chamber. Nov 20 recheck: form unchanged (Nov 8 deadline wording, $50 late fee, Dec 5); open status still not stated. Nov 21 recheck: form still prints a Nov 8 deadline with $50 late fee; open status not stated, confirm with Chamber. Nov 26 recheck: form unchanged (Nov 8 wording, $50 late fee); open status not stated.",
    "x": "Bring your own tent with 30 lb weights, tables and chairs. Texas sales tax ID and booth/product photos required. Theme: Gingerbread Christmas.",
    "rk": 38
   },
@@ -1926,7 +1926,7 @@
    "dn": "Application deadline Dec 1, 2026; 50 booths",
    "ap": "https://forms.gle/Dih1iJn2c4AiE2Nh6",
    "ct": "See dfwcrafts.com/event/a-christmas-market",
-   "nt": "New (Nov 6). Via thecraftmap listing: church-hosted, 50 vendor spots. Cottage food rules and attendance not listed; mileage is an estimate. Ask whether packaged nut butter is allowed. Nov 21 recheck: TheCraftMap still shows Dec 5, $60 8x6 booth, $10 electricity, 50 spots, deadline Dec 1; cottage food not stated. Nov 25 recheck: Google form still open, $60 6x8 booth, $10 electricity, Dec 5 10am-3pm; form states no deadline (listing says Dec 1); cottage food still not stated.",
+   "nt": "New (Nov 6). Via thecraftmap listing: church-hosted, 50 vendor spots. Cottage food rules and attendance not listed; mileage is an estimate. Ask whether packaged nut butter is allowed. Nov 21 recheck: TheCraftMap still shows Dec 5, $60 8x6 booth, $10 electricity, 50 spots, deadline Dec 1; cottage food not stated. Nov 25 recheck: Google form still open, $60 6x8 booth, $10 electricity, Dec 5 10am-3pm; form states no deadline (listing says Dec 1); cottage food still not stated. Nov 26: search listing still shows Dec 1 deadline, $60 booth; cottage food not stated.",
    "x": "",
    "rk": 35
   },
@@ -1988,7 +1988,7 @@
    "fee": "$100 per booth per search listing",
    "dn": "Unknown",
    "ap": "https://form.jotform.com/260975335133054",
-   "nt": "New (Nov 15) via search result: Dec 12, 2026 school holiday market, $100 booth, one national vendor limit. Jotform currently says form unavailable, so it may be closed. Cottage food unconfirmed; mileage estimated. Nov 24 recheck: the Jotform registration form now shows 'This form is currently unavailable', so registration appears closed; unconfirmed.",
+   "nt": "New (Nov 15) via search result: Dec 12, 2026 school holiday market, $100 booth, one national vendor limit. Jotform currently says form unavailable, so it may be closed. Cottage food unconfirmed; mileage estimated. Nov 24 recheck: the Jotform registration form now shows 'This form is currently unavailable', so registration appears closed; unconfirmed. Nov 26 recheck: form still unavailable.",
    "rk": 15
   }
  ]
